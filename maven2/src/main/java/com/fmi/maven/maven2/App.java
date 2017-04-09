@@ -17,7 +17,7 @@ public class App
 
        //връщане към master branch
 
-       new MySimpleClass().mySimpleMethod("Дончо");
+       new MySimpleClass().mySimpleMethod("Дончи");
 
 
     }
