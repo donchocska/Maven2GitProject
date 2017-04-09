@@ -12,5 +12,9 @@ public class App
     {
        new MySimpleClass().mySimpleMethod(null);
        new MySimpleClass().mySimpleMethod("Дончо");
+
+    }
+    public void methodOne(){
+ 	   
     }
 }
