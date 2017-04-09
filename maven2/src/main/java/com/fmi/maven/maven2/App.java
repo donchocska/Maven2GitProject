@@ -8,6 +8,9 @@ import com.fmi.maven.maven1.MySimpleClass;
  */
 public class App 
 {
+	public void ivan(){
+		
+	}
     public static void main( String[] args )
     {
        new MySimpleClass().mySimpleMethod(null);
