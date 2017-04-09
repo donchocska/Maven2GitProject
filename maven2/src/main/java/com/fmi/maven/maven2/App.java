@@ -22,15 +22,20 @@ public class App
 
 
        new MySimpleClass().mySimpleMethod(null);
+
        new MySimpleClass().mySimpleMethod("Донч");
 
 
-    }
-    public void methodOne(){
+       	methodOne();
+
 
     }
     
     public void doncho(){
+
+    }
+    public static void methodOne(){
+    	 new MySimpleClass().mySimpleMethod("Донч");
 
     }
 }
