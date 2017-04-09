@@ -10,7 +10,7 @@ public class App
 {
     public static void main( String[] args )
     {
-       new MySimpleClass().mySimpleMethod(null);;
+       new MySimpleClass().mySimpleMethod(null);
        
     }
 }
