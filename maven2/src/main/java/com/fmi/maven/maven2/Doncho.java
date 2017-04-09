@@ -6,4 +6,8 @@ public class Doncho {
 		System.out.println("Моето име е Дончо");
 	}
 	
+	
+	public void ivanName(){
+		System.out.println("Моето име е Иван");
+	}
 }
