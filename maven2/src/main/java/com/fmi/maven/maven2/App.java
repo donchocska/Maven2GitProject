@@ -14,10 +14,10 @@ public class App
     public static void main( String[] args )
     {
        new MySimpleClass().mySimpleMethod(null);
-       new MySimpleClass().mySimpleMethod("Донч");
+       	methodOne();
 
     }
-    public void methodOne(){
- 	   
+    public static void methodOne(){
+    	 new MySimpleClass().mySimpleMethod("Донч");
     }
 }
