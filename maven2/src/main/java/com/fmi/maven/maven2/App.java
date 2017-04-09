@@ -11,9 +11,13 @@ public class App
     public static void main( String[] args )
     {
        new MySimpleClass().mySimpleMethod(null);
+<<<<<<< HEAD
 
        //връщане към master branch
 
        
+=======
+       new MySimpleClass().mySimpleMethod("Дончо");
+>>>>>>> refs/heads/bbranch
     }
 }
