@@ -6,7 +6,7 @@ public class Doncho {
 		System.out.println("Моето име е Дончо");
 		System.out.println("Намирам се в клас Doncho.java");
 	}
-	
+	  
 	
 
 }
