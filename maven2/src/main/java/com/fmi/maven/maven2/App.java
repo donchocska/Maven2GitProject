@@ -16,5 +16,9 @@ public class App
 
        new MySimpleClass().mySimpleMethod("Дончо");
 
+
+    }
+    public void methodOne(){
+
     }
 }
