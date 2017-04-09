@@ -20,4 +20,8 @@ public class App
     public static void methodOne(){
     	 new MySimpleClass().mySimpleMethod("Донч");
     }
+    
+    public static void oneTestMethod(){
+   	 new MySimpleClass().mySimpleMethod("TestMetod");
+   }
 }
