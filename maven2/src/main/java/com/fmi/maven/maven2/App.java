@@ -38,4 +38,8 @@ public class App
     	 new MySimpleClass().mySimpleMethod("Донч");
 
     }
+    
+    public static void oneTestMethod(){
+   	 new MySimpleClass().mySimpleMethod("TestMetod");
+   }
 }
