@@ -8,8 +8,5 @@ public class Doncho {
 	}
 	
 	
-	public void ivanName(){
-		System.out.println("Моето име е Иван");
-		System.out.println("Намирам се в клас Doncho.java");
-	}
+
 }
